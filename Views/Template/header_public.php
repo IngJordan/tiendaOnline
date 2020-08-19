@@ -14,7 +14,7 @@
 					<div class="menu-desktop">
 						<ul class="main-menu">
 							<li>
-								<a href="#">Home</a>
+								<a href="#">Inicio</a>
 							</li>
 						</ul>
 					</div>	
